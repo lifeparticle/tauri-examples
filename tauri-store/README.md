@@ -3,6 +3,7 @@ cargo install tauri-cli --version "^2.0.0-beta"
 
 yarn create tauri-app --beta
 cd tauri-store
+yarn run tauri add store
 yarn install
 yarn tauri dev
 ```
