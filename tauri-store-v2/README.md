@@ -47,6 +47,6 @@ await store.save(); // this manually saves the store, otherwise the store is onl
 
 # Resources
 
-1. [tauri-plugin-store](https://github.com/tauri-apps/tauri-plugin-store)
+1. [tauri-plugin-store](https://github.com/tauri-apps/tauri-plugin-store/tree/v2)
 2. [store v2](https://v2.tauri.app/features/store/)
 3. https://tauri-apps.github.io/tauri-plugin-store/
